@@ -1,10 +1,11 @@
 <template>
-  <div class="container">a</div>
+  <div class="container">Hello World</div>
 </template>
 
-<script lang="js">
+<script lang="ts">
+import Vue from 'vue'
 
-export default {
+export default Vue.extend({
   name: 'IndexPage',
-}
+})
 </script>

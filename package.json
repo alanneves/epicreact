@@ -22,7 +22,6 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
-    "@nuxtjs/emotion": "^0.1.0",
     "core-js": "^3.22.6",
     "normalize.css": "^8.0.1",
     "nuxt": "^2.15.8",

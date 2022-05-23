@@ -1,3 +1,9 @@
-/** default colors */
-$color-primary: #f7f5ed;
-$color-secondary: #222325;
+h1 {
+  font-family: 'Fontfabric mont demo', sans-serif;
+  color: $color-secondary;
+  font-size: 60px;
+  line-height: 70px;
+  font-weight: 900;
+  margin: 0;
+  padding: 0;
+}

@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="child">Hello World</div>
+    <h1>Hello World</h1>
   </div>
 </template>
 
@@ -17,8 +17,5 @@ export default Vue.extend({
   width: 100vw;
   height: 100vh;
   background-color: $color-primary;
-  .child {
-    color: $color-secondary;
-  }
 }
 </style>

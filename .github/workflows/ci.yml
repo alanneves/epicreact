@@ -39,3 +39,6 @@ jobs:
 
       - name: Run tests 🧪
         run: npm run test
+
+      - name: Run coverage 📊
+        uses: codecov/codecov-action@v2
